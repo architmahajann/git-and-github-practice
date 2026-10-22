@@ -1,3 +1,4 @@
 Hello from Master
+Hello from feature
 I am learning Git practically.
 Git helps me track changes.Login feature is under development.
